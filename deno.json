@@ -1,0 +1,9 @@
+{
+  "name": "@joyautomation/create-tentacle-plc",
+  "version": "0.0.1",
+  "license": "MIT",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": ["mod.ts", "templates.ts", "deno.json", "LICENSE"]
+  }
+}
