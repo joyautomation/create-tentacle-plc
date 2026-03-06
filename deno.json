@@ -1,7 +1,7 @@
 {
   "name": "@joyautomation/create-tentacle-plc",
   "version": "0.0.2",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "exports": "./mod.ts",
   "publish": {
     "include": ["mod.ts", "templates.ts", "deno.json", "LICENSE"]
